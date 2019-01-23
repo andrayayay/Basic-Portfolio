@@ -1,7 +1,5 @@
 # Basic-Portfolio
 
-# Basic-Portfolio
-
 Deployed assignment can be found here: https://andrayayay.github.io/Basic-Portfolio/
 
 # Recommended Assignment - That Portfolio Though
